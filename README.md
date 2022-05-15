@@ -1,1 +1,1 @@
-# servlet_practice
+# 수업에서 배운 서블릿jsp를 통해 연습해봄 
